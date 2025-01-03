@@ -13,10 +13,6 @@ import DAO.MessageDAO;
 
 import java.util.List;
 
-
-import io.javalin.Javalin;
-import io.javalin.http.Context;
-
 /**
  * TODO: You will need to write your own endpoints and handlers for your controller. The endpoints you will need can be
  * found in readme.md as well as the test cases. You should
